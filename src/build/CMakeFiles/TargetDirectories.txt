@@ -1,0 +1,5 @@
+/Users/stanislavsmaglo/Desktop/3DViewer_V1.0-main/src/build/CMakeFiles/3D_Viewer.dir
+/Users/stanislavsmaglo/Desktop/3DViewer_V1.0-main/src/build/CMakeFiles/edit_cache.dir
+/Users/stanislavsmaglo/Desktop/3DViewer_V1.0-main/src/build/CMakeFiles/rebuild_cache.dir
+/Users/stanislavsmaglo/Desktop/3DViewer_V1.0-main/src/build/CMakeFiles/3D_Viewer_autogen_timestamp_deps.dir
+/Users/stanislavsmaglo/Desktop/3DViewer_V1.0-main/src/build/CMakeFiles/3D_Viewer_autogen.dir
